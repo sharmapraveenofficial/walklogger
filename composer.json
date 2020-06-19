@@ -1,0 +1,17 @@
+{
+    "name": "walklogger/logger",
+    "description": "A simple but powerful logger by walkover for logging.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Praveen Sharma",
+        "email": "sharmapraveenofficial@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "walklogger\\logger\\": "src/"
+        }
+    },
+    "require": {}
+}
